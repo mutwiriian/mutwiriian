@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Analytics(Data Visualization, Statistics, Machine Learning, APIs)**
 
-- 📫 How to reach me **im.mutwiriian@gmail.com**
+- 📫 How to reach me **mutwiri_ian@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
