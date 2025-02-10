@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Data Engineering, Golang,**
 
-- 👨‍💻 All of my projects are available at [github.com/mutwiriian](github.com/mutwiriian)
-
 - 💬 Ask me about **Data Analytics(Data Visualization, Statistics, Machine Learning, APIs)**
 
 - 📫 How to reach me **im.ianmutwiri@gmail.com**
